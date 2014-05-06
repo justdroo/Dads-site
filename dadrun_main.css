@@ -1,0 +1,48 @@
+/******
+	GENERAL
+******/
+
+a {
+	text-decoration:none;
+}
+
+html, body {
+	margin:0;
+	padding:0;
+	width:100%;
+	background-color: #FBF1F8;
+}
+
+/******
+	HEADING
+******/
+
+/** Logo **/
+
+.logo h1 {
+	text-align:left;
+	width:95%;
+	margin: 0 auto;
+	font-size:50px;
+	padding-top:10px;
+	padding-left:10px;
+}
+
+/** Nav Bar **/
+
+.navbar {
+	text-align:right;
+	width:95%;
+}
+
+.navbar ul {
+	list-style-type:none;
+}
+
+.navbar li {
+	display:inline;
+}
+
+.navbar a{
+	
+}
